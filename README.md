@@ -1,5 +1,5 @@
-Ref no:212225040052
-Namr: Carlton Maximus A
+##Ref no:212225040052
+##Name: Carlton Maximus A
 
 EX.NO:3 Exploring the different types of prompts- Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
 
